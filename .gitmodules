@@ -1,0 +1,6 @@
+[submodule "2012-03-22/file-upload-form/slides"]
+	path = 2012-03-22/file-upload-form/slides
+	url = git@github.com:dharFr/uploader-thumbnail.git
+[submodule "2012-03-22/file-upload-form/src"]
+	path = 2012-03-22/file-upload-form/src
+	url = git@github.com:dharFr/uploader-thumbnail.git
