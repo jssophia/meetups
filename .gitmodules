@@ -4,3 +4,6 @@
 [submodule "2012-03-22/file-upload-form/src"]
 	path = 2012-03-22/file-upload-form/src
 	url = git@github.com:dharFr/uploader-thumbnail.git
+[submodule "2012-05-31/backbone"]
+	path = 2012-05-31/backbone
+	url = https://github.com/mathbruyen/jssophia-backbone.git
