@@ -7,3 +7,9 @@
 [submodule "2012-05-31/backbone"]
 	path = 2012-05-31/backbone
 	url = https://github.com/mathbruyen/jssophia-backbone.git
+[submodule "2013-02-21/workshop-materials"]
+	path = 2013-02-21/workshop-materials
+	url = https://github.com/corinnekrych/KissingTurtlesGreach.git
+[submodule "2013-02-21/workshop-slides"]
+	path = 2013-02-21/workshop-slides
+	url = https://github.com/mathbruyen/kissingturtles-handson
